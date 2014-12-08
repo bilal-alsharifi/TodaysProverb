@@ -1,0 +1,24 @@
+v1.2.5
+-fix some bugs.
+
+v1.2.4
+-move to a new server.
+
+v1.2.3
+-fix force close problem.
+
+v1.2.2
+-fix some bugs.
+
+v1.2.1
+-fix some bugs.
+
+v1.2.0
+-add the ability to edit installed packages.
+-add the ability to build packges from inside the app.
+
+v1.0.1
+-fix some bugs.
+
+v1.0.0
+-first release.

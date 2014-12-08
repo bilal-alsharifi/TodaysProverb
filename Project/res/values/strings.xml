@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Info -->
+    <string name="app_name">Today\'s Proverb</string>
+    <string name="app_DeveloperName">DigitalSoft</string>
+    <string name="app_supportEmail">support@digital-soft.org</string>
+    <string name="app_SupportWebsite">www.digital-soft.org</string>
+
+    <!-- App Messages -->
+    <string name="restartMessage">please restart the app.</string>
+    <string name="noConnectionMessage">No internet connection!</string>
+    <string name="invalidXmlMassage">Server error, please try to update the app to the latest version.</string>
+    <string name="waitMessage">Please wait…</string>
+    <string name="packageInstalledSuccessfullyMessage">The package has been installed successfully.</string>
+    <string name="thePackageHasBeenDeletedMessage">The package has been deleted.</string>
+
+    <!-- App Strings -->
+    <string name="addPackages">Add Packages</string>
+    <string name="addPackagesDescription">To add new packages from the internet, click the button below</string>
+    <string name="editPackages">Edit Packages</string>
+    <string name="editPackagesDescription">To edit, remove some of the added packges, or to build your own new package, click the button below</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="addWidgetDescription">after adding at least one package, you can immediately add a widget to your home screen.</string>
+    <string name="loading">loading</string>
+    <string name="emptyPackage">Empty</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="icon">Icon</string>
+    <string name="developer">Developer</string>
+    <string name="website">Website:</string>
+    <string name="email">Email:</string>
+    <string name="versionNumber">Version:</string>
+    <string name="by">By</string>
+    <string name="language">Language</string>
+    <string name="save">Save</string>
+    <string name="addText">Add Text</string>
+    <string name="buildPackage">Build Package</string>
+    <string name="packageName">Package Name</string>
+    <string name="enterTheText">Enter the text</string>
+    
+
+    <!-- App Arrays -->
+    <string-array name="languages">
+        <item>العربية</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="locales">
+        <item>ar</item>
+        <item>en_US</item>
+    </string-array>
+
+</resources>

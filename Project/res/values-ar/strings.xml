@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Info -->
+    <string name="app_name">Today\'s Proverb</string>
+    <string name="app_DeveloperName">DigitalSoft</string>
+    <string name="app_supportEmail">support@digital-soft.org</string>
+    <string name="app_SupportWebsite">www.digital-soft.org</string>
+
+    <!-- App Messages -->
+    <string name="restartMessage">يرجى اعادة تشغيل البرنامج.</string>
+    <string name="noConnectionMessage">لا يوجد اتصال بالانترنت!</string>
+    <string name="invalidXmlMassage">مشكلة في المخدم، يرجى محاولة ترقية التطبيق الى آخر اصدار.</string>
+    <string name="waitMessage">يرجى الانتظار…</string>
+    <string name="packageInstalledSuccessfullyMessage">تم تثبيت الحزمة بنجاح.</string>
+    <string name="thePackageHasBeenDeletedMessage">تم ازالة الحزمة بنجاح.</string>
+
+    <!-- App Strings -->
+    <string name="addPackages">إضافة حزم</string>
+    <string name="addPackagesDescription">لاضافة حزم جديدة من الانترنت، اضغط على الزر في الاسفل</string>
+    <string name="editPackages">تعديل حزم</string>
+    <string name="editPackagesDescription">لتعديل او ازالة بعض  الحزم المثبتة على الجهاز، او لبناء حزمة جديدة خاصة بك، اضغط على الزر في الاسفل</string>
+    <string name="edit">تعديل</string>
+    <string name="remove">حذف</string>
+    <string name="addWidgetDescription">بعد إضافة حزمة واحدة على الاقل، يمكنك مباشرة إضافة ويدجيت جديد الى الشاشة الرئيسية.</string>
+    <string name="loading">جاري التحميل</string>
+    <string name="emptyPackage">فارغ</string>
+    <string name="about">حول</string>
+    <string name="settings">الاعدادات</string>
+    <string name="exit">خروج</string>
+    <string name="icon">الأيقونة</string>
+    <string name="developer">المطور</string>
+    <string name="website">موقع الويب:</string>
+    <string name="email">البريد الالكتروني:</string>
+    <string name="versionNumber">الاصدار:</string>
+    <string name="by">بواسطة</string>
+    <string name="language">اللغة</string>
+    <string name="save">حفظ</string>
+    <string name="addText">إضافة نص</string>
+    <string name="buildPackage">بناء حزمة</string>
+    <string name="packageName">اسم الحزمة</string>
+    <string name="enterTheText">دخل النص</string>
+
+</resources>
